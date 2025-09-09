@@ -1,4 +1,4 @@
-![purple pfp](https://upload.wikimedia.org/wikipedia/commons/b/b7/Purple_Circle.png)
+![purple pfp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_JxkXS2flnTMi0rGOOLSnCA1uh2-XIa0O-g&s)
 # Katelyn Reyes
 ##### As if currently Katelyn is a senior software development student at HSFI
 
@@ -29,6 +29,5 @@ Phone: 000-000-0000
  * Reading
  * DND
  * Videogames
- * 
     
 
