@@ -29,5 +29,8 @@ Phone: 000-000-0000
  * Reading
  * DND
  * Videogames
-    
+
+
+She lives by the quote
+>**_Your self worth is determind by you, you dont have to depend on anyone else's opinion on you_** -Beyonce
 
